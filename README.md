@@ -3,14 +3,6 @@ Hi there! I'm **Md. Shekh Farid**, a passionate **PHP Laravel Developer** and **
 
 💻 I thrive on solving challenging problems, creating innovative web solutions, and collaborating with teams to deliver impactful projects. Alongside my development work, I actively participate in **Capture-the-Flag (CTF) competitions**, honing my skills in **vulnerability assessment** and **incident response**.  
 
-Here’s what I’m up to:  
-- 🚀 **Currently working on:** A single-vendor e-commerce platform using raw PHP with admin panel functionalities.  
-- 👯 **Looking to collaborate on:** Open-source backend development projects and API integrations.  
-- 🤝 **Looking for help with:** Advanced frontend development (Vue.js, React) to complement my backend expertise.  
-- 🌱 **Currently learning:** Designing dashboards with Figma and preparing for IELTS.  
-- 💬 **Ask me about:** Building secure, scalable web applications, API integrations, VPS management, and cybersecurity best practices.  
-- ⚡ **Fun fact:** I started as a backend developer but quickly dived into cybersecurity, combining my love for problem-solving with practical solutions.  
-
 ---
 
 ## 🌐 Socials:
