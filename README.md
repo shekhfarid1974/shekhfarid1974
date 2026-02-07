@@ -1,7 +1,29 @@
-# 💫 About Me:  
-Hi there! I'm **Md. Shekh Farid**, a passionate **PHP Laravel Developer** and **Cybersecurity Enthusiast** with a knack for building robust, secure, and scalable web solutions. With over a year of professional experience, I specialize in backend development, API integration, and managing VPS environments.  
+# Sheikh Farid — Laravel Backend Engineer
 
-💻 I thrive on solving challenging problems, creating innovative web solutions, and collaborating with teams to deliver impactful projects. Alongside my development work, I actively participate in **Capture-the-Flag (CTF) competitions**, honing my skills in **vulnerability assessment** and **incident response**.  
+I build large-scale CRM, ERP, Hospital, and Call Center systems using Laravel, MySQL, and REST APIs.
+
+## What I Specialize In
+- CRM & ERP Backend Architecture
+- Call Center & Vicidial Integrations
+- RESTful API Design & System Bridging
+- ChatGPT & AI API Integration
+- Database Optimization for High-Traffic Systems
+- Server Deployment & Production Maintenance
+
+## Real-World Systems I Have Worked On
+- Square Toiletries Ltd. — IDMS with ChatGPT integration
+- Evercare & Comfort Hospital — Hospital CRM
+- Nestlé, IDC — Verbex AI integrations
+- UCBD — Vicidial ↔ Meritto API Bridge
+- Vromoon.com — Travel booking platform
+
+## Tech Stack
+Laravel • PHP • MySQL • REST APIs • Vicidial • Git • Linux • VPS
+
+## Contact
+LinkedIn: linkedin.com/in/shekhfarid1974
+Email: shekhfarid1974@gmail.com
+
 
 ---
 
