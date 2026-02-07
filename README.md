@@ -1,4 +1,4 @@
-# Sheikh Farid — Laravel Backend Engineer
+# Shekh Farid — Laravel Backend Engineer
 
 I build large-scale CRM, ERP, Hospital, and Call Center systems using Laravel, MySQL, and REST APIs.
 
