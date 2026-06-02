@@ -1,46 +1,165 @@
-# Shekh Farid — Laravel Backend Engineer
+<div align="center">
 
-I build large-scale CRM, ERP, Hospital, and Call Center systems using Laravel, MySQL, and REST APIs.
+# 👋 Hi, I'm MD. SHEKH FARID
 
-## What I Specialize In
-- CRM & ERP Backend Architecture
-- Call Center & Vicidial Integrations
-- RESTful API Design & System Bridging
-- ChatGPT & AI API Integration
-- Database Optimization for High-Traffic Systems
-- Server Deployment & Production Maintenance
+### Backend Engineer • Laravel Developer • AI Integration Specialist
 
-## Real-World Systems I Have Worked On
-- Square Toiletries Ltd. — IDMS with ChatGPT integration
-- Evercare & Comfort Hospital — Hospital CRM
-- Nestlé, IDC — Verbex AI integrations
-- UCBD — Vicidial ↔ Meritto API Bridge
-- Vromoon.com — Travel booking platform
+Building scalable enterprise applications, CRM/ERP systems, and AI-powered knowledge platforms using Laravel, PHP, MySQL, Vector Databases, and LLM technologies.
 
-## Tech Stack
-Laravel • PHP • MySQL • REST APIs • Vicidial • Git • Linux • VPS
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=800&lines=Laravel+Backend+Engineer;AI+Powered+Application+Developer;RAG+%7C+Embeddings+%7C+Vector+Databases;CRM+%26+ERP+Systems+Developer;Enterprise+Software+Engineer" />
 
-## Contact
-LinkedIn: linkedin.com/in/shekhfarid1974
-Email: shekhfarid1974@gmail.com
-
+</div>
 
 ---
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shekhfarid1974) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/user:28185738) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@ShekhFarid1974) 
+## 🚀 About Me
 
-# 💻 Tech Stack:
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=shekhfarid1974&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=shekhfarid1974&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shekhfarid1974&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=shekhfarid1974&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+* 💼 Software Engineer at **My Outsourcing Ltd**
+* 🧠 Building AI-powered enterprise applications using **RAG, Embeddings & LLM APIs**
+* ⚡ 3+ years of experience in Laravel ecosystem
+* 🏢 Worked on systems used by enterprise clients and healthcare organizations
+* 🌱 Exploring AI Agents, MCP, Multi-Agent Systems, and Enterprise Knowledge Platforms
+* 🎯 Passionate about solving business problems through software automation
 
 ---
-[![](https://visitcount.itsvg.in/api?id=shekhfarid1974&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🏗️ What I Build
+
+### Enterprise Systems
+
+* CRM Platforms
+* ERP Solutions
+* Call Center Intelligence Systems
+* Hospital Management Solutions
+* Knowledge Management Platforms
+
+### AI Applications
+
+* Retrieval-Augmented Generation (RAG)
+* Semantic Search Systems
+* Enterprise ChatGPT Integrations
+* Conversational AI
+* AI Knowledge Bases
+* Vector Search Applications
+
+### Backend Development
+
+* Laravel Applications
+* RESTful APIs
+* Third-party Integrations
+* Database Architecture
+* Performance Optimization
+* Server Deployment & Management
+
+---
+
+## 🛠️ Tech Stack
+
+### Backend
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge\&logo=laravel\&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
+
+### AI & LLM
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge\&logo=openai\&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-000000?style=for-the-badge)
+![Vector DB](https://img.shields.io/badge/Vector_Database-005571?style=for-the-badge)
+![Pinecone](https://img.shields.io/badge/Pinecone-00D09C?style=for-the-badge)
+
+### Database
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge\&logo=mariadb\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge\&logo=redis\&logoColor=white)
+
+### DevOps & Cloud
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge\&logo=nginx\&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D42029?style=for-the-badge\&logo=apache\&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge\&logo=amazonaws\&logoColor=white)
+
+---
+
+## 💼 Enterprise Experience
+
+### My Outsourcing Ltd.
+
+* Built CRM, ERP and enterprise call-center platforms
+* Developed AI-powered knowledge retrieval systems
+* Integrated ChatGPT and LLM APIs into enterprise solutions
+* Implemented conversational AI and speech intelligence platforms
+* Built real-time reporting and analytics systems
+
+### Industry Domains
+
+🏥 Healthcare
+
+📞 Call Center Operations
+
+🛒 Distribution & Sales
+
+✈️ Travel & Hospitality
+
+🏢 Enterprise Management
+
+---
+
+## 🌟 Featured Projects
+
+### 🤖 AI Knowledge Retrieval Platform
+
+Enterprise knowledge assistant powered by:
+
+* RAG Architecture
+* Semantic Search
+* Vector Embeddings
+* LLM Integration
+
+### ✈️ Travel Booking Platform
+
+Features:
+
+* Flight Booking
+* Hotel Booking
+* Tour Packages
+* Payment Integration
+* SMS Notifications
+
+### 🏥 Hospital CRM
+
+* Patient Management
+* Lead Tracking
+* Reporting Dashboard
+* Automated Workflows
+
+---
+
+## 📊 GitHub Analytics
+
+![](https://github-readme-stats.vercel.app/api?username=shekhfarid1974\&show_icons=true\&theme=tokyonight\&hide_border=true\&count_private=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=shekhfarid1974\&theme=tokyonight\&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shekhfarid1974\&layout=compact\&theme=tokyonight\&hide_border=true)
+
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin)](https://linkedin.com/in/shekhfarid1974)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)](https://github.com/shekhfarid1974)
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:shekhfarid1974@gmail.com)
+
+---
+
+### 💡 Philosophy
+
+> Build software that solves real business problems.
+>
+> Combine robust backend engineering with modern AI to create scalable, intelligent systems.
